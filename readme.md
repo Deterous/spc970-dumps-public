@@ -4,7 +4,7 @@
 
 | mecha | Revision | JP / DTL (`6xx`) | Chassis / Remarks |
 | :--- | :---: | :---: | :--- |
-| `1.02_0` |  | ❌ 605R | A-chassis SCPH-10000 (Japan) |
+| `1.02_0` | `1.193` | ✅ **605R** | A-chassis SCPH-10000 (Japan) |
 | `1.03_0` |  | ❌ 602R | A-chassis DTL-T10000, DTL-H10000 |
 
 ### CXP102064 Series (v1.xx Firmware) — MD 1.36/MD 1.38
@@ -13,7 +13,7 @@
 | :--- | :---: | :---: | :---: | :--- |
 | `1.06_0` |  | ❌ 001R | — | A-chassis SCPH-10000 with blacklisted DVD-Player 1.00 (GH-001, Japan) |
 | `1.07_0` |  | ❌ 003R | — | A-chassis DTL-T10000, DTL-H10000 (GH-001) |
-| `1.08_0` |  | ❌ 002R | — | A-chassis SCPH-15000 (GH-003 with Sony RF-amp) |
+| `1.08_0` | `1.6` | ✅ **002R** | — | A-chassis SCPH-15000 (GH-003 with Sony RF-amp) |
 | `1.09_0` |  | — | ❌ 751R | A-chassis DTL-T10000H, DTL-T15000 |
 
 ### CXP102064 Series (v2.xx Firmware) — MD 1.39
@@ -42,6 +42,8 @@
 
 | Dump | SHA-256 | Build date | Author |
 | :--- | :--- | :---: | :---: |
+| `1.02_0.BIN` | `6fc179e6868449240831c3d6529ca749fb137c6fa5e56499c39b6d4a9ee73c23` | `2000-01-10` | `dai` |
+| `1.08_0.BIN` | `b2f538397b2108cd82d303cf43d5d4a8bb6eacd5bc3a83b0cd9aca7ac18ebc73` | `2000-04-06` | `dai` |
 | `2.02_0.BIN` | `24f35a30c06e249ce92f32700e37a00b554c9220b9a96634dfb4574ce48f0589` | `2000-07-04` | `dai` |
 | `2.04_1.BIN` | `fde32c17c6f5ec611814b9a71606709be09b56da7a1ad9ef2d12b87c8846346d` | `2000-07-13` | `dai` |
 | `2.04_2.BIN` | `a83862547484eaafe91f0396596a1cd1f5c7b8f364d9566001a10a0d0b580f5a` | `2000-07-13` | `dai` |
