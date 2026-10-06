@@ -5,7 +5,7 @@
 | mecha | Revision | Date | JP / DTL (`6xx`) | Chassis / Remarks |
 | :--- | :---: | :---: | :---: | :--- |
 | `1.02_0` | `1.193` | 2000-01-10 | ✅ **605R** | A-chassis SCPH-10000 (Japan) |
-| `1.03_0` |  | - | ❌ 602R | A-chassis DTL-T10000, DTL-H10000 |
+| `1.03_0` | `1.194` | 2000-02-13 | ✅ **602R** | A-chassis DTL-T10000, DTL-H10000 |
 
 ### CXP102064 Series (v1.xx Firmware) — MD 1.36/MD 1.38
 
@@ -43,6 +43,7 @@
 | Dump | SHA-256 | Build date | Author |
 | :--- | :--- | :---: | :---: |
 | `1.02_0.BIN` | `6fc179e6868449240831c3d6529ca749fb137c6fa5e56499c39b6d4a9ee73c23` | `2000-01-10` | `dai` |
+| `1.03_0.BIN` | `7bd4dc98ac6f4dcfa04ba320cdf506c0bfcf87aff47bc16bbf331e5ac65686dd` | `2000-01-13` | `dai` |
 | `1.08_0.BIN` | `b2f538397b2108cd82d303cf43d5d4a8bb6eacd5bc3a83b0cd9aca7ac18ebc73` | `2000-04-06` | `dai` |
 | `1.09_0.BIN` | `eb16e124dbb8502bb34de7574529b40ff0982d1052c8e42d029c684f167300b4` | `2000-10-13` | `dai` |
 | `2.00_0.BIN` | `1774ad2014766fa6a605fc3d62bfb3d86c63e4bd79150e65b89cb8b77f74a4ea` | `2000-06-22` | `dai` |
