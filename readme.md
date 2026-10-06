@@ -11,9 +11,9 @@
 
 | mecha | Revision | JP / DTL (`0xx`) | DTL (`75x`) | Chassis / Remarks |
 | :--- | :---: | :---: | :---: | :--- |
-| `1.02_0` | `1.193` | ✅ **001R** | — | A-chassis SCPH-10000 with blacklisted DVD-Player 1.00 (GH-001, Japan) |
+| `1.02_0` | `1.193` | ✅ **001R** | — | A-chassis SCPH-10000, firmware matches 605R |
 | `1.07_0` |  | ❌ 003R | — | A-chassis DTL-T10000, DTL-H10000 (GH-001) |
-| `1.08_0` | `1.6` | ✅ **002R** | — | A-chassis SCPH-15000 (GH-003 with Sony RF-amp) |
+| `1.08_0` | `1.6` | ✅ **002R** | — | A-chassis SCPH-10K/15K (GH-003 with Sony RF-amp), with blacklisted DVD-Player 1.00 |
 | `1.09_0` | `1.6` | — | ✅ **751R** | A-chassis DTL-T10000H, DTL-T15000 |
 
 ### CXP102064 Series (v2.xx Firmware) — MD 1.39
