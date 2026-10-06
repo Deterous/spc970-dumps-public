@@ -5,7 +5,7 @@
 | mecha | Revision | Date | JP / DTL (`6xx`) | Chassis / Remarks |
 | :--- | :---: | :---: | :---: | :--- |
 | `1.02_0` | `1.193` | 2000-01-10 | ✅ **605R** | A-chassis SCPH-10000 (Japan) |
-| `1.03_0` | `1.194` | 2000-02-13 | ✅ **602R** | A-chassis DTL-T10000, DTL-H10000 |
+| `1.03_0` | `1.194` | 2000-01-13 | ✅ **602R** | A-chassis DTL-T10000, DTL-H10000 |
 
 ### CXP102064 Series (v1.xx Firmware) — MD 1.36/MD 1.38
 
